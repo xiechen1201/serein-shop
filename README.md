@@ -13,27 +13,19 @@
 
 ![](README_files/3.jpg)
 
+### 我的
+
 ![](README_files/4.jpg)
 
 ![](README_files/5.jpg)
 
-### 我的
+### 搜索页
 
 ![](README_files/6.jpg)
 
+### 商品详情
+
 ![](README_files/7.jpg)
-
-### 搜索页
-
-![](README_files/8.jpg)
-
-### 商品列表
-
-![](README_files/9.jpg)
-
-### 详情
-
-![](README_files/10.jpg)
 
 ## 项目说明
 
