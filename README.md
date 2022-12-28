@@ -1,10 +1,7 @@
 
 # Serein优购
 
-
-## 项目说明
-
-- 本项目使用 uni-app 进行开发，请使用 [HBuilder](https://hx.dcloud.net.cn/) 工具进行开发
+<!-- 本项目使用 uni-app 进行开发，请使用 [HBuilder](https://hx.dcloud.net.cn/) 工具进行开发 -->
 
 - [在线文档请点击](https://www.escook.cn/docs-uni-shop)
 
